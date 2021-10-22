@@ -12,5 +12,6 @@ Ebben a projektben egy arduino alapú automata öntözőrendszer kerül bemutat�
 - [Jumper wire (female-female)](https://www.hestore.hu/prod_10035719.html)
 - [Szilikon cső 6 x 9mm](https://www.hestore.hu/prod_10041946.html)
 - [NodeMCU ESP8266 WiFi modul](https://www.hestore.hu/prod_10036631.html)
+- [DHT11 Hőmérséklet és páratalralom mérő](https://www.hestore.hu/prod_10035544.html)
 
 
