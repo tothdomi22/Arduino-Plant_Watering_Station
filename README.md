@@ -13,4 +13,4 @@ Ebben a projektben egy arduino alapú automata öntözőrendszer kerül bemutat�
 - [Szilikon cső 6 x 9mm](https://www.hestore.hu/prod_10041946.html)
 - [NodeMCU ESP8266 WiFi modul](https://www.hestore.hu/prod_10036631.html)
 
-## Működése
+
